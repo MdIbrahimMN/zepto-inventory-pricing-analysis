@@ -100,3 +100,12 @@ zepto-inventory-pricing-analysis/
 ## Power BI Dashboard
 
 ![Zepto Inventory and Pricing Dashboard](screenshots/zepto_dashboard.png)
+<h2 align="center">Zepto Inventory & Pricing Dashboard</h2>
+
+<p align="center">
+  <img
+    src="screenshots/zepto_dashboard.png"
+    alt="Zepto Power BI Dashboard"
+    width="100%"
+  />
+</p>
