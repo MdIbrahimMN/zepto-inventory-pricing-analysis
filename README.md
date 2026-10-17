@@ -101,7 +101,7 @@ zepto-inventory-pricing-analysis/
 
 <p align="center">
   <img
-    src="screenshots/zepto_dashboard.png"
+    src="C:\Users\dell inspiron\Downloads\zepto-inventory-pricing-analysis\screenshots\zepto_dashboard.png"
     alt="Zepto Power BI Dashboard"
     width="100%"
   />
