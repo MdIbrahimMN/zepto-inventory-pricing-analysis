@@ -96,10 +96,6 @@ zepto-inventory-pricing-analysis/
 │   └── zepto_dashboard.pbix
 └── screenshots/
     └── zepto_dashboard.png
-## Power BI Dashboard
-
-![Zepto Inventory and Pricing Dashboard](zepto_dashboard.png)
-<h2 align="center">Zepto Inventory & Pricing Dashboard</h2>
 
 <p align="center">
   <img
