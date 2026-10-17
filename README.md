@@ -97,14 +97,11 @@ zepto-inventory-pricing-analysis/
 └── screenshots/
     └── zepto_dashboard.png
 
-## Power BI Dashboard
-
-![Zepto Inventory and Pricing Dashboard]("C:\Users\dell inspiron\Downloads\zepto-inventory-pricing-analysis\zepto screenshot.png")
 <h2 align="center">Zepto Inventory & Pricing Dashboard</h2>
 
 <p align="center">
   <img
-    src=""C:\Users\dell inspiron\Downloads\zepto-inventory-pricing-analysis\zepto screenshot.png""
+    src="screenshots/zepto_dashboard.png"
     alt="Zepto Power BI Dashboard"
     width="100%"
   />
